@@ -1,6 +1,6 @@
 {
   "variable": {
-    "prefer_pv": {
+    "data_prefer_pv": {
       "default": {
         "m1.small": "pv",
         "m1.medium": "pv",
@@ -58,7 +58,7 @@
         "d2.8xlarge": "hvm"
       }
     },
-    "prefer_hvm": {
+    "data_prefer_hvm": {
       "default": {
         "m1.small": "pv",
         "m1.medium": "pv",
